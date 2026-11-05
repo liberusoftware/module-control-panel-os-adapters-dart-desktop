@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-os-adapters-dart-desktop",
+  "capabilityKey": "liberusoftware/module-control-panel-os-adapters",
+  "presentation": "dart-desktop",
+  "package": "module_control_panel_os_adapters_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/control-panel/nextjs/os-adapters.md",
+  "presentationPlan": "projects/control-panel/features/os-adapters.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
